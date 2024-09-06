@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <p> Wild cats roamed freely under the yellow sun 
-        With eyes as sharp as diamonds, it moved with stealth, 
+        With eyes as sharp as diamonds, it moved with stealth , 
         blending seamlessly with the shadows
       </p>
       <a href='https://x.com/fractalwildcats?s=21'><img src={logo} alt='twitter' height={100}/></a>
