@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wild-cats/static/css/main.36641e59.css",
+    "main.js": "/wild-cats/static/js/main.a7a0af65.js",
+    "static/js/453.ed3810f9.chunk.js": "/wild-cats/static/js/453.ed3810f9.chunk.js",
+    "static/media/Radiant Sunset.ttf": "/wild-cats/static/media/Radiant Sunset.5040b0a7a0c761f7da21.ttf",
+    "static/media/img5.jpg": "/wild-cats/static/media/img5.f335da567fb11309cd4f.jpg",
+    "static/media/img2.jpg": "/wild-cats/static/media/img2.67432b8bc3a307ddf687.jpg",
+    "static/media/img3.jpg": "/wild-cats/static/media/img3.8da31d33cf6eef8ea846.jpg",
+    "static/media/img4.jpg": "/wild-cats/static/media/img4.a5802201d6bde76ecb7b.jpg",
+    "static/media/img6.jpg": "/wild-cats/static/media/img6.60cb0c97fdb0430fb109.jpg",
+    "static/media/dark.webp": "/wild-cats/static/media/dark.2963aff61a7555576be2.webp",
+    "index.html": "/wild-cats/index.html",
+    "static/media/twitter.svg": "/wild-cats/static/media/twitter.cc6c082cd49342c76d143b44023508e8.svg",
+    "main.36641e59.css.map": "/wild-cats/static/css/main.36641e59.css.map",
+    "main.a7a0af65.js.map": "/wild-cats/static/js/main.a7a0af65.js.map",
+    "453.ed3810f9.chunk.js.map": "/wild-cats/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36641e59.css",
+    "static/js/main.a7a0af65.js"
+  ]
+}
