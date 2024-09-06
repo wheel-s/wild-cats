@@ -6,7 +6,7 @@ import logo from './images/twitter.svg'
 const Footer = () => {
   return (
     <div className='footer'>
-      <p> A pride of lions roamed freely under the yellow sun 
+      <p> Wild cats roamed freely under the yellow sun 
         With eyes as sharp as diamonds, it moved with stealth, 
         blending seamlessly with the shadows
       </p>

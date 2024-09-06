@@ -15,9 +15,9 @@ const Modal = () => {
       } 
        else{
 
-       const tweet = `i made my application for @fractalwildcats whitelist! 
-        if you want to join wild cats apply here:
-        https://x.com/'https://x.com/fractalwildcats?s=21'.`
+       const tweet = `i made my application for the fractal wildcats whitelist! 
+     if you want to join wild cats apply here:
+        'https://x.com/fractalwildcats?s=21'.`
        const twitterUrl =`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweet)}`
 
        window.open(twitterUrl, "_blank")}
