@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wild-cats/static/css/main.36641e59.css",
-    "main.js": "/wild-cats/static/js/main.a7a0af65.js",
+    "main.css": "/wild-cats/static/css/main.7bc2935c.css",
+    "main.js": "/wild-cats/static/js/main.592760cd.js",
     "static/js/453.ed3810f9.chunk.js": "/wild-cats/static/js/453.ed3810f9.chunk.js",
     "static/media/Radiant Sunset.ttf": "/wild-cats/static/media/Radiant Sunset.5040b0a7a0c761f7da21.ttf",
     "static/media/img5.jpg": "/wild-cats/static/media/img5.f335da567fb11309cd4f.jpg",
@@ -12,12 +12,12 @@
     "static/media/dark.webp": "/wild-cats/static/media/dark.2963aff61a7555576be2.webp",
     "index.html": "/wild-cats/index.html",
     "static/media/twitter.svg": "/wild-cats/static/media/twitter.cc6c082cd49342c76d143b44023508e8.svg",
-    "main.36641e59.css.map": "/wild-cats/static/css/main.36641e59.css.map",
-    "main.a7a0af65.js.map": "/wild-cats/static/js/main.a7a0af65.js.map",
+    "main.7bc2935c.css.map": "/wild-cats/static/css/main.7bc2935c.css.map",
+    "main.592760cd.js.map": "/wild-cats/static/js/main.592760cd.js.map",
     "453.ed3810f9.chunk.js.map": "/wild-cats/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36641e59.css",
-    "static/js/main.a7a0af65.js"
+    "static/css/main.7bc2935c.css",
+    "static/js/main.592760cd.js"
   ]
 }
