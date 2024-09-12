@@ -16,7 +16,7 @@ const Modal = () => {
        window.open(twitterUrl, "_blank")
          
     }
-
+ 
   return (
     <div className='modal'>
        <div className='write'>
