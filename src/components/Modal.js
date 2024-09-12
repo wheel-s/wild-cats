@@ -1,26 +1,19 @@
 import React from 'react'
-import { useState } from 'react'
+
 
 const Modal = () => {
 
-  const [input, setinput] =useState('')
-  const [error, seterror] = useState('')
-
+  
     const post = (e)=>{
       e.preventDefault()          
-      if (input==='') {
-        seterror('Please enter wallet address')
+  
 
-        setTimeout(()=>{seterror('')}, 3000)
-      } 
-       else{
-
-       const tweet = `i made my application for the fractal wildcats whitelist! 
-     if you want to join wild cats apply here:
+       const tweet = ` i'll be on inscribenow on 21000 fractal block height  to mint Fractal Wild cats;
+        Will you be there  
       'https://x.com/fractalwildcats?s=21'.`
        const twitterUrl =`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweet)}`
 
-       window.open(twitterUrl, "_blank")}
+       window.open(twitterUrl, "_blank")
          
     }
 
@@ -32,11 +25,8 @@ const Modal = () => {
         </div>
         <form className='form'>
             <p></p>
-            <div className='input'>
-                <input  value={input}  onChange={(e)=>setinput(e.target.value)} placeholder='ordinals/runes address' />
-               <p>{error}</p>
-            </div>
-            <button className='btn' onClick={post}>Submit Wallet </button>
+          
+            <button className='btn' onClick={post}>Make a cat post </button>
         </form>
 
     </div>
