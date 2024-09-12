@@ -8,8 +8,8 @@ const Modal = () => {
       e.preventDefault()          
   
 
-       const tweet = ` i'll be on inscribenow on 21000 fractal block height  to mint Fractal Wild cats;
-        Will you be there  
+       const tweet = ` i'll be on inscribenow at 21000 fractal block height  to mint Fractal Wild cats;
+        Will you be there ?  Make a cat post here
       'https://x.com/fractalwildcats?s=21'.`
        const twitterUrl =`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweet)}`
 
